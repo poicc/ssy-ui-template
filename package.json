@@ -13,7 +13,7 @@
   "author": "crq",
   "license": "ISC",
   "dependencies": {
-    "ssy-ui-vite": "^1.7.0",
+    "ssy-poicc-ui-vite": "^1.2.0",
     "vue": "^3.2.41"
   },
   "devDependencies": {
