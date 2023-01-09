@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "ssy-ui-vite": "^1.8.0",
+    "ssy-poicc-ui-vite": "^1.2.0",
     "vue": "^3.2.41"
   },
   "devDependencies": {
