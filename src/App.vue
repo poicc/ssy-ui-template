@@ -12,8 +12,11 @@ import HelloWorld from "./components/HelloWorld.vue";
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
+    <a href="https://vuejs.org/" target="_blank">
+      <img src="https://cdn.staticaly.com/gh/poicc/image@main/Snipaste_2023-01-07_10-26-24-removebg-preview.1eor1tajh880.webp" class="logo vue" alt="Vue logo" />
+    </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <HelloWorld msg="Vite + Vue + SSYUI" />
   <div style="margin-bottom: 20px">
     <SButton color="blue">主要按钮</SButton>
     <SButton color="green">绿色按钮</SButton>
